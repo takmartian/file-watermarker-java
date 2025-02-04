@@ -11,8 +11,7 @@
 ## graphyutil
 - 添加图片隐写的工具包
 - 隐写内容不加密
-隐写术介绍文档参考：
-https://blog.csdn.net/l8947943/article/details/127088875
+- 隐写术介绍文档参考：https://blog.csdn.net/l8947943/article/details/127088875
 
 # 工具包使用
 运行package里的main，有图形界面
